@@ -41,7 +41,7 @@ pipeline {
             //    withSonarQubeEnv('SonarQubeScanner'){
             //        sh "${scannerHome}/bin/sonar-scanner"
             //    }
-            }
+            //}
           }
         }
 
